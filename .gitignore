@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+*.log
+*.tar
+*.tar.gz
+*.oci
+data/
+artifacts/
+ssh/
+__pycache__/
+*.pyc

@@ -1,0 +1,6 @@
+# Only runtime sources belong in the image build context.
+*
+!Dockerfile
+!LICENSE
+!scripts/
+!scripts/**
